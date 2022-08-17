@@ -2,7 +2,7 @@
 
 Result Analysis of a class using Pandas and Python:
 
-1. Create an Excel sheet containing marks of 10 students out of 100 for 5 subjects.  Read the Excel file using pandas library and find the following:  
+Create an Excel sheet containing marks of 10 students out of 100 for 5 subjects.  Read the Excel file using pandas library and find the following:  
 
 a) Find the total marks obtained by each student and put them in a new column called 'Total'.  
 b) Find the average marks obtained by each student and put them in a new column called 'Average'.  
